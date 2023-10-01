@@ -10,12 +10,6 @@ The purpose of this template is to avoid any opinions on writing code. The devel
 
 This template _is_ opinionated about developer tooling. Dependency management is configured, git hooks are defined, code formatting and static analysis are all there, and it even has pull request templates. The purpose of this repo is to help you get started building your next project with confidence in your code, and not telling you how to write it. 
 
-## Walkthrough
-
-If you'd like a video walk through of this template and all it has to offer, you can find that on YouTube. 
-
-https://youtu.be/E0iMUWJn76E
-
 ## Using This Template
 
 To use this template in your own project, click the "Use this template" button at the top right of the repository. Once you do, a repository will be created for your account that you can clone and use on your device.
