@@ -1,10 +1,8 @@
 🚧  UNDER CONSTRUCTION 🚧
 
-This project is a clone of the [Android App Template](https://github.com/adammc331/androidapptemplate) but will be intended for use to setup a KMM mobile application. 
-
 # Android App Template
 
-This is a GitHub template repository intended to kickstart development on an Android application. This project comes set with a handful of tools that [Adam](https://github.com/AdamMc331) finds important and relevant to every project. If you think something is missing, or feel strongly that a setup should be changed, please submit an [Issue](https://github.com/AdamMc331/AndroidAppTemplate/issues/new).
+This is a repository template intended to kickstart development on an Android application. This project comes set with a handful of tools that important and relevant to every project. If you think something is missing, or feel strongly that a setup should be changed, please submit an [Issue](https://github.com/zinopro/Android-Repository-Template/issues/new).
 
 ## Why This Template?
 
@@ -28,10 +26,9 @@ gradle task to have the app module's package name and relevant strings replaced.
 
 ### Cleanup
 
-After [this PR](https://github.com/AdamMc331/AndroidAppTemplate/pull/44), running the renameTemplate
-task should do all the necessary cleanup like deleting the setup file and test workflow so you can 
+Running the renameTemplate task should do all the necessary cleanup like deleting the setup file and test workflow so you can 
 go ahead and commit the renamed files and be on your way. If you encounter any problems with the setup
-workflow, please report a new [issue](https://github.com/AdamMc331/AndroidAppTemplate/issues).
+workflow, please report a new [issue](https://github.com/zinopro/Android-Repository-Template/issues/new).
 
 ## What's Included
 
@@ -55,7 +52,7 @@ Danger API key setup in your GitHub secrets. Info on this can be found [here](ht
 
 ### Templates
 
-There are also templates within this template. This repo comes shipped with a [Pull Request Template](/.github/pull_request_template.md) that will help you and your team write organized and detailed pull request descriptions. 
+There are also templates within this template. This repo comes shipped with a [Pull Request Template] that will help you and your team write organized and detailed pull request descriptions. 
 
 ## Dependency Setup
 
