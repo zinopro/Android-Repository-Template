@@ -2,8 +2,6 @@
 //  templateiosUITestsLaunchTests.swift
 //  templateiosUITests
 //
-//  Created by Adam McNeilly on 7/4/23.
-//
 
 import XCTest
 
